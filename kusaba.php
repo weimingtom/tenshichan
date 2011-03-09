@@ -78,5 +78,6 @@ if (isset($_GET['info'])) {
 	<iframe src="news.php" name="main" id="main">
 		<a href="<?php echo KU_WEBPATH;?>/news.php"><?php echo KU_NAME; ?> Navigation</a>
 	</iframe>
+	<iframe src="http://tiny.irc.lc/?nick=anon.&channels=tenshichan&uio=d4" width="647" height="400"></iframe>
 </body>
 </html>
